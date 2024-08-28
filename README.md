@@ -2,7 +2,7 @@ Versions
 
 
 simplekeylogger.py :
-It's a simple keylogger that will retrieve a computer's keystrokes into a discord message channel via webhook, it autostart and runs in the background unnoticed.
+It's a simple keylogger that will retrieve a computer's keystrokes into a discord message channel via webhook, it autostart and runs in the background.
 version 1.0
 
 passwordgen.py :
